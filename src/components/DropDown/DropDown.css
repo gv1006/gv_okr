@@ -1,0 +1,41 @@
+.dd-wrapper {
+    position: relative;
+    width: 40%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.dd-header {
+    border: 1px solid black;
+    position: relative;
+    height: 26px;
+}
+
+.dd-header-title {
+    text-align: left;
+    font-size: 20px;
+    position: relative;
+    left: 0px;
+}
+
+.dd-list {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.dd-list-item {
+    border: 1px solid gray;
+    background-color: lightblue;
+    text-align: left;
+}
+
+.dropdown-arrow {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 45%;
+    top: -31px;
+    cursor: pointer;
+}
